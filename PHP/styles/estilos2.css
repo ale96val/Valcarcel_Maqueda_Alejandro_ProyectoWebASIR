@@ -1,0 +1,98 @@
+#footer {
+    position: fixed;
+    bottom: 0px;
+    right: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: lightpink;
+}
+
+.boton {
+    display: inline;
+    margin-left: 1%;
+}
+
+.botonsup {
+    display: block;
+    margin-top: 1%;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.margin1 {
+    margin: 1%;
+}
+
+.marginbottom {
+    margin-bottom: 1%;
+}
+
+.marginr05 {
+    margin-right: 0.5%;
+}
+
+.colorinput {
+    background: lightpink;
+    color: white;
+}
+
+.recuadro {
+    background-color: lightpink;
+    border-radius: 12px;
+    color: white;
+}
+
+.recuadro2 {
+    background: lightpink;
+    border-radius: 12px;
+    border: 2px solid white;
+}
+
+.alignright {
+    float: right;
+}
+
+.colorwhite {
+    color: white;
+}
+
+#fondo {
+    background-size: 100%;
+    width: 100%;
+    height: 800px;
+    background-image: url('/img/fondo1.jpg');
+}
+
+#colorfondo {
+    background-color: darkslategray;
+    height: 100%;
+}
+
+.fondo2 {
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 20%;
+    background-image: url('/img/logo1.png');
+}
+
+.imag {
+    margin-top: 4%;
+    width: 100%;
+}
+
+.borde {
+    border: 1px solid pink;
+}
+
+.btn {
+    background-color: white;
+    color: pink;
+    border: pink;
+}
